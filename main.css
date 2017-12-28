@@ -1787,26 +1787,24 @@ td[style="background-color: black;border:none;"] {
 
 /* MOD BAR */
 
-#modbarmain {
-    width: 100%;
-    background: #222;
-    border-bottom: 1px solid #2f2f2f;
-    line-height: 24px;
-    margin-bottom: 20px;
-}
+#modbarmain {margin-top: 20px;margin-bottom: 20px;}
 
 .modbar {
-    width: 100%;
-    border-bottom: 1px solid #151515;
+    text-align: center;
 }
 
 .modbar a:first-child {
     margin-left: 60px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+    border: 1px solid #937341;
 }
 
 #torrents #searchform {
     margin-top: 10px;
 }
+
+/* MOD BAR END */
 
 #index .thin center:first-child {
     margin-top: 10px;
