@@ -359,7 +359,7 @@ ul.thin li {
 
 #searchbars ul li {
     display: inline;
-    /*margin: 0px 1px;*/
+    margin: 0px;
     list-style: none;
     position: relative;
 }
