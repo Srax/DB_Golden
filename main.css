@@ -1833,3 +1833,20 @@ td[style="background-color: black;border:none;"] {
 .sceditor-container.ltr {
     width: 100% !important;
 }
+
+
+.bonus input[type=text] {
+    padding-top: 4px;
+    background: #2c2c2c;
+    border: 1px solid #937341;
+    padding-left: 6px;
+    padding-bottom: 4px;
+    padding-right: 6px;
+    transition: 0.2s ease;
+    margin-right: 4px;
+    color: #c4b998;
+    transition: 0.2s ease;
+    font-weight: bold;
+    text-align: center;
+    outline: none;
+}
