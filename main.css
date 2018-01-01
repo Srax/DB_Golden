@@ -317,11 +317,6 @@ ul.thin li {
     border-bottom: 1px solid #937341;
 }
 
-/*#menu ul { //Let's remove this
-    float: left;
-    margin-left: 10px;
-}*/
-
 #menu ul li {
     position: relative;
     display: inline;
@@ -367,7 +362,7 @@ ul.thin li {
 
 #searchbars ul li {
     display: inline;
-    /*margin: 0px 1px;*/
+    margin: 0px;
     list-style: none;
     position: relative;
 }
@@ -747,16 +742,18 @@ td.colhead,
     text-align: center;
     padding: 0;
     margin: 0;
+    background: #222;
 }
 
 .colheadmenuopret a {
-    padding-top: 10px;
-    background: #222;
+    padding-top: 6px;
+    background: #2c2c2c;
     border: 1px solid #937341;
-    padding-left: 15px;
-    padding-bottom: 11px;
-    padding-right: 15px;
+    padding-left: 8px;
+    padding-bottom: 6px;
+    padding-right: 8px;
     transition: 0.2s ease;
+    margin-right: 4px;
 }
 
 .colheadmenuopret a:hover {
@@ -1795,26 +1792,24 @@ td[style="background-color: black;border:none;"] {
 
 /* MOD BAR */
 
-#modbarmain {
-    width: 100%;
-    background: #222;
-    border-bottom: 1px solid #2f2f2f;
-    line-height: 24px;
-    margin-bottom: 20px;
-}
+#modbarmain {margin-top: 20px;margin-bottom: 20px;}
 
 .modbar {
-    width: 100%;
-    border-bottom: 1px solid #151515;
+    text-align: center;
 }
 
 .modbar a:first-child {
     margin-left: 60px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+    border: 1px solid #937341;
 }
 
 #torrents #searchform {
     margin-top: 10px;
 }
+
+/* MOD BAR END */
 
 #index .thin center:first-child {
     margin-top: 10px;
