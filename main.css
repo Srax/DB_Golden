@@ -1855,3 +1855,7 @@ td[style="background-color: black;border:none;"] {
 #searchbars input[type=text]{
     margin: 0px 10px;
 }
+
+#chat .box.pad {
+    margin-bottom: 10px;
+}
