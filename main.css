@@ -1851,3 +1851,7 @@ td[style="background-color: black;border:none;"] {
     text-align: center;
     outline: none;
 }
+
+#searchbars input[type=text]{
+    margin: 0px 10px;
+}
