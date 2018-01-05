@@ -1858,3 +1858,7 @@ td[style="background-color: black;border:none;"] {
 #chat .box.pad {
     margin-bottom: 10px;
 }
+
+input#post_preview {
+    margin-top: 16px;
+}
