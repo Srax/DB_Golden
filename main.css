@@ -839,8 +839,11 @@ ul.poll li.graph {
 #forums .cat_list {
     margin: 0;
     border: 0;
+}
 
-
+#requests .cat_list {
+    margin: 0;
+    border: 0;
 }
 
 .torrent_table {
