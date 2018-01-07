@@ -3,7 +3,9 @@
 /* THIS IS THE DEVELOPER BRANCH!!!!! */
 /* Adding this CSS to DB is at your own risk */
 /* I would prefer you use the MASTER BANCH CSS*/
-/* Går lige lidt tilbage */
+/* 1/7/2018 - 5:35 AM */
+
+
 #lolgo {
     background-image: url('https://i.imgur.com/XtTN41T.png');
     background-repeat: no-repeat;
@@ -895,6 +897,13 @@ ul.poll li.graph {
     width: 650px;
     margin: auto;
 }
+
+.searchtable .selected a div {
+    color: #e6d6bc;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
 
 .searchtable tr {
     border: none;
