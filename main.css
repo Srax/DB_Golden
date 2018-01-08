@@ -3,7 +3,7 @@
 /* THIS IS THE DEVELOPER BRANCH!!!!! */
 /* Adding this CSS to DB is at your own risk */
 /* I would prefer you use the MASTER BANCH CSS*/
-/* 1/7/2018 - 5:35 AM */
+/* 33 */
 
 
 #lolgo {
@@ -1884,12 +1884,8 @@ input#post_preview {
     margin-top: 16px;
 }
 
-#bonus > #wrapper > #content > div {
+#bonus > #wrapper > #content > div form {
     width: 430px !important;
-}
-
-#bonus > #wrapper > #content > div {
-    width: 450px !important;
 }
 
 #bonus > #wrapper > #content > div input#sub{
