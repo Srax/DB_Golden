@@ -1,7 +1,8 @@
 /* [START: main.css]
-/* Layout (Torrents page) */
-/* THIS IS THE MASTER BRANCH */
+ */
+/*Layout (Torrents page) */
 
+/* THIS IS THE MASTER BRANCH */
 
 #lolgo {
     background-image: url('https://i.imgur.com/XtTN41T.png');
@@ -20,6 +21,10 @@
     width: 410px;
     height: 110px;
     border: 0px;
+}
+
+@media only screen and (max-width: 1325px) {
+    #lolgo > #linktorrent {display: none;}
 }
 
 #lolgo a {
@@ -370,6 +375,12 @@ ul.thin li {
 #searchbars ul li form {
     display: inline;
 }
+
+@media only screen and (max-width: 1070px) {
+    #searchbars {display: none;}
+}
+
+
 
 #alerts {
     position: relative;
@@ -1791,7 +1802,7 @@ td[style="background-color: black;border:none;"] {
 }
 
 .modbar a:first-child {
-    padding: 5px 15px 5px 15px;
+    padding: 2px 15px 2px 15px;
     border-radius: 5px;
     border: 1px solid #937341;
 }
@@ -1869,4 +1880,25 @@ td[style="background-color: black;border:none;"] {
 
 input#post_preview {
     margin-top: 16px;
+}
+
+#bonus > #wrapper > #content > div {
+    width: 430px !important;
+}
+
+#bonus > #wrapper > #content > div {
+    width: 450px !important;
+}
+
+#bonus > #wrapper > #content > div input#sub{
+    margin-right: 17px;
+}
+
+#bonus > #wrapper > #content > div input#auto{
+    margin-right: 33px;
+}
+
+
+#bonus > #wrapper > #content > div  input[type="box"] {
+    width: 60px;
 }
