@@ -1,7 +1,5 @@
-/* [START: main.css]
- */
+/* [START: main.css] */
 /*Layout (Torrents page) */
-
 /* THIS IS THE MASTER BRANCH */
 
 #lolgo {
@@ -1897,7 +1895,6 @@ input#post_preview {
 #bonus > #wrapper > #content > div input#auto{
     margin-right: 33px;
 }
-
 
 #bonus > #wrapper > #content > div  input[type="box"] {
     width: 60px;
