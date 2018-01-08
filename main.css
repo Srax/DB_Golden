@@ -1887,3 +1887,20 @@ input#post_preview {
 #bonus > #wrapper > #content > div {
     width: 430px !important;
 }
+
+#bonus > #wrapper > #content > div {
+    width: 450px !important;
+}
+
+#bonus > #wrapper > #content > div input#sub{
+    margin-right: 17px;
+}
+
+#bonus > #wrapper > #content > div input#auto{
+    margin-right: 33px;
+}
+
+
+#bonus > #wrapper > #content > div  input[type="box"] {
+    width: 60px;
+}
