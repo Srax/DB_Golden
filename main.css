@@ -1883,3 +1883,7 @@ td[style="background-color: black;border:none;"] {
 input#post_preview {
     margin-top: 16px;
 }
+
+#bonus > #wrapper > #content > div {
+    width: 430px !important;
+}
