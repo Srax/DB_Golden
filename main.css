@@ -2,14 +2,6 @@
 /* Layout (Torrents page) */
 /* THIS IS THE MASTER BRANCH */
 
-/* [START: main.css]
-/* Layout (Torrents page) */
-/* THIS IS THE DEVELOPER BRANCH!!!!! */
-/* Adding this CSS to DB is at your own risk */
-/* I would prefer you use the MASTER BANCH CSS*/
-/* 1/7/2018 - 5:35 AM */
-
-
 #lolgo {
     background-image: url('https://i.imgur.com/XtTN41T.png');
     background-repeat: no-repeat;
@@ -262,7 +254,7 @@ ul.thin li {
 }
 
 #content {
-    margin-top: 120px;
+    margin-top: 105px;
     width: 100%;
     min-width: 1000px;
     overflow: hidden;
@@ -340,7 +332,7 @@ ul.thin li {
 
 #searchbars {
     position: absolute;
-    top: 205px;
+    top: 198px;
     left: 50%;
     transform: translate(-50%);
 }
@@ -391,7 +383,7 @@ ul.thin li {
 #alerts {
     position: relative;
     clear: left;
-    margin: 10px auto 10px;
+    margin: 10px auto 20px;
 }
 
 #cat-selector ul {
@@ -1801,7 +1793,7 @@ td[style="background-color: black;border:none;"] {
 
 /* MOD BAR */
 
-#modbarmain {margin-top: 20px;margin-bottom: 20px;}
+#modbarmain {margin-top: 3px;margin-bottom: 20px;}
 
 .modbar {
     text-align: center;
@@ -1904,4 +1896,5 @@ input#post_preview {
 #bonus > #wrapper > #content > div  input[type="box"] {
     width: 60px;
 }
+
 
