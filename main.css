@@ -3,7 +3,7 @@
 /* THIS IS THE DEVELOPER BRANCH!!!!! */
 /* Adding this CSS to DB is at your own risk */
 /* I would prefer you use the MASTER BANCH CSS*/
-/* 33 */
+/* Lucky sevens */
 
 
 #lolgo {
@@ -258,7 +258,7 @@ ul.thin li {
 }
 
 #content {
-    margin-top: 120px;
+    margin-top: 90px;
     width: 100%;
     min-width: 1000px;
     overflow: hidden;
@@ -336,7 +336,7 @@ ul.thin li {
 
 #searchbars {
     position: absolute;
-    top: 205px;
+    top: 198px;
     left: 50%;
     transform: translate(-50%);
 }
@@ -387,7 +387,7 @@ ul.thin li {
 #alerts {
     position: relative;
     clear: left;
-    margin: 10px auto 10px;
+    margin: 10px auto 20px;
 }
 
 #cat-selector ul {
